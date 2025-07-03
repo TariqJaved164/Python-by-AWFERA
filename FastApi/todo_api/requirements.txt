@@ -1,0 +1,5 @@
+# Required packages for running the Todo API
+fastapi
+uvicorn
+pydantic
+
